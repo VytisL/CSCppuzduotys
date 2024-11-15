@@ -1,0 +1,6 @@
+Aptarnavimas klientui 1 uztruko 10 minuciu.
+Aptarnavimas klientui 2 uztruko 5 minuciu.
+Aptarnavimas klientui 3 uztruko 8 minuciu.
+Aptarnavimas klientui 4 uztruko 12 minuciu.
+Aptarnavimas klientui 5 uztruko 6 minuciu.
+Bendras aptarnavimo laikas: 41
